@@ -6,7 +6,7 @@ updated_at: 2026-10-19
 Nome: Alysson Martins Bruno
 Uso: Alysson Bruno
 Outros usos: Alysson, Alysson M. Bruno, Prof. Me. Alysson Bruno
-Local: Tocantins, Brasil
+Local: Palmas, Tocantins, Brasil
 Contato: @alyssonbruno ou @ab78cc nas redes sociais
 Lattes: <http://lattes.cnpq.br/3738927570009752>
 
@@ -31,8 +31,9 @@ todas essas frentes.
 
 ### Justiça Eleitoral — TRE-TO
 
-Analista Judiciário no Tribunal Regional Eleitoral do Tocantins desde 1998.
-Passei a maior parte desse tempo no desenvolvimento de sistemas e na gestão e
+Trabalho no Tribunal Regional Eleitoral do Tocantins desde 1998: fui Técnico
+Judiciário (Programador) de 1998 a 2007 e, desde 2007, sou Analista Judiciário
+(Analista de Sistemas). Passei a maior parte desse tempo no desenvolvimento de sistemas e na gestão e
 análise de dados. Hoje atuo na infraestrutura: hiperconvergência, redes e
 segurança da informação.
 
