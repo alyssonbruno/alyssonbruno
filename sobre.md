@@ -54,9 +54,8 @@ Professor nos cursos de computação da Unitins, no presencial e no EAD.
 - **Orientação:** oriento TCCs e participo de bancas em Sistemas de
   Informação e Ciência da Computação.
 
-Meus alunos são, em boa parte, do interior do Tocantins e estudam pelo
-celular. Por isso produzo material de leitura simples, com exemplos
-próximos da realidade deles e muito apoio visual: slides em Marp, textos-base
+Produzo material de leitura simples, com exemplos próximos da realidade 
+dos alunos e muito apoio visual: slides em Marp, textos-base
 com prática guiada, questões no padrão ENADE e roteiros de aula. Todo o
 material é escrito em Markdown e versionado com Git.
 
