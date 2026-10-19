@@ -77,7 +77,7 @@ Research*.
 Escrevo a web novel ***Lucca: Como vendi sabão em outro mundo e criei a maior
 empresa de todas***, uma história isekai em português sobre uma menina que
 usa conhecimento de engenharia, química e economia para fundar uma empresa
-num mundo medieval. O Livro 1, *A Vila Sem Nome*, estreia no Wattpad.
+num mundo de fantasia. O Livro 1, *A Vila Sem Nome*, estreia no Wattpad.
 
 Também desenho os mapas desse mundo e desenvolvo ferramentas para editá-los
 com apoio de IA.
